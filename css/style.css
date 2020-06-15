@@ -2,8 +2,10 @@ html{
     position: relative;
 }
 body{
+    background-image: url(../img/repeated-square/repeated-square.png);
     margin-bottom: 120px;
     margin-top: 30px;
+    
 }
 .jumbotron img{
     width: 150px;
